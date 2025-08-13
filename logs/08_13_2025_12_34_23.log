@@ -1,2 +1,0 @@
-[ 2025-08-13 12:34:23,626 ] root - INFO - unsupported operand type(s) for +: 'int' and 'str'
-[ 2025-08-13 12:34:23,626 ] root - ERROR - Error occurred in python script: [demo.py] at line number [6]: unsupported operand type(s) for +: 'int' and 'str'
