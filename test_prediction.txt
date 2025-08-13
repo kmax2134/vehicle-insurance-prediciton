@@ -1,0 +1,24 @@
+_id	                        Gender	Age	DL Region	Previously_Insured	Vehicle_Age	Vehicle_Damage	Annual_Premium	Policy_Sales_Channel	Vintage	 Response
+
+689c3542a9de371811aae137	Female	59	1	50	    1	                    1-2 Year	Yes	        46300	            3	                    56	    0
+689c3542a9de371811aadb2b	Female	22	1	28	    1	                    < 1 Year	No	        45886	            152	                    273	    0
+689c353fa9de371811a6bf55	Male	37	1	34	    0	                    > 2 Year	Yes	        29636	            124	                    270	    0
+689c3542a9de371811abad35	Female	62	1	8	    0	                    > 2 Year	Yes	        50574	            26	                    18	    0
+689c3541a9de371811a8a324	Female	28	1	21	    0	                    < 1 Year	No	        31319	            152	                    90	    0
+689c3541a9de371811aa7b05	Female	27	1	21	    1	                    < 1 Year	No	        34647	            26	                    61	    0
+689c3540a9de371811a818d4	Male	56	1	28	    0	                    > 2 Year	Yes	        62310	            26	                    252	    0
+689c353fa9de371811a699ce	Male	58	1	28	    1	                    1-2 Year	No	        66975	            53	                    113	    0
+689c3540a9de371811a7184d	Female	29	1	43	    1	                    < 1 Year	No	        33899	            152	                    68	    0
+689c3541a9de371811a99f5d	Male	43	1	35	    0	                    1-2 Year	Yes	        27701	            124	                    262	    1
+689c353ea9de371811a5f7da	Female	22	1	15	    1	                    < 1 Year	No	        38247	            152	                    248	    0
+689c3542a9de371811ab30f7	Female	28	1	18	    1	                    < 1 Year	No	        37118	            152	                    47	    0
+689c3541a9de371811a97395	Female	33	1	15	    0	                    < 1 Year	Yes	        33179	            124	                    53	    0
+689c3542a9de371811ab2915	Female	25	1	8	    0	                    < 1 Year	Yes	        42397	            152	                    13	    0
+689c353ea9de371811a5fb59	Male	54	1	28	    0	                    1-2 Year	Yes	        36139	            124	                    240	    0
+689c3541a9de371811a89627	Female	47	1	28	    0	                    1-2 Year	Yes	        34700	            154	                    40	    1
+689c3541a9de371811aa5239	Female	71	1	28	    0	                    1-2 Year	No	        28166	            122	                    71	    0
+689c3540a9de371811a6d6b8	Male	37	1	15	    0	                    1-2 Year	No	        2630	            157	                    197	    0
+689c3540a9de371811a76ca6	Female	25	1	9	    0	                    < 1 Year	Yes	        33990	            152	                    166	    0
+689c3541a9de371811a9061a	Male	51	1	28	    0	                    1-2 Year	Yes	        48693	            124	                    12	    0
+689c3541a9de371811a9c50b	Female	24	1	11	    1	                    < 1 Year	No	        25744	            152	                    149	    0
+689c3540a9de371811a7c97c	Male	53	1	12	    0	                    1-2 Year	Yes	        2630	            30	                    249	    1
